@@ -1,0 +1,63 @@
+{
+  "name": "edu-tuition-refund-control-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Tuition Refund Control Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-tuition-refund-control-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-tuition-refund-control-agent",
+  "displayName": {
+    "en": "Tuition Refund Control Agent",
+    "zh": "学费退费风险管控"
+  },
+  "profession": {
+    "en": "Tuition Refund Control Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Tuition Refund Control Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供学费退费风险管控专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Tuition Refund Control Agent.",
+    "zh": "请帮我完成一次学费退费风险管控"
+  },
+  "plugin": "edu-tuition-refund-control-agent",
+  "tags": [
+    {
+      "en": "Finance Operations",
+      "zh": "财务运营"
+    },
+    {
+      "en": "Business Analysis",
+      "zh": "经营测算"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Tuition Refund Control Agent.",
+      "zh": "请帮我完成一次学费退费风险管控"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 风险评分逻辑、流程检查、异常证据、审批节点、沟通摘要和关闭条件 with risks and open questions.",
+      "zh": "请生成风险评分逻辑、流程检查、异常证据、审批节点、沟通摘要和关闭条件，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-tuition-refund-control-agent",
+  "license": "Apache-2.0"
+}

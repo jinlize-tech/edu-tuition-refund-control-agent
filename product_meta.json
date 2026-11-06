@@ -1,0 +1,24 @@
+{
+  "number": 87,
+  "product_id": "JLZ-EDU-AG-018",
+  "chinese_name": "学费退费风险管控",
+  "english_name": "Tuition Refund Control Agent",
+  "repository_name": "edu-tuition-refund-control-agent",
+  "product_type": "Agent",
+  "category": "07 财务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-tuition-refund-control-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "退款申请、合同、退费规则、课时、付款、投诉和审批记录",
+  "main_output": "风险评分逻辑、流程检查、异常证据、审批节点、沟通摘要和关闭条件",
+  "package_entries": [
+    "edu-tuition-refund-control-agent/.codebuddy-plugin/plugin.json",
+    "edu-tuition-refund-control-agent/agents/edu-tuition-refund-control-agent.md",
+    "edu-tuition-refund-control-agent/avatars/expert.png",
+    "edu-tuition-refund-control-agent/README.md"
+  ]
+}

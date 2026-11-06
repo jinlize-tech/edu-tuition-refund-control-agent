@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-018",
+  "repository_name": "edu-tuition-refund-control-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-tuition-refund-control-agent-v1.0.0.zip",
+  "sha256": "B7E1A442624B3277A9B81CAFAC2F3FCA26BF1744EE242D60D23E90DBF6FE8930",
+  "bytes": 11621,
+  "entries": [
+    "edu-tuition-refund-control-agent/.codebuddy-plugin/plugin.json",
+    "edu-tuition-refund-control-agent/agents/edu-tuition-refund-control-agent.md",
+    "edu-tuition-refund-control-agent/avatars/expert.png",
+    "edu-tuition-refund-control-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:46:00.2087914+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
