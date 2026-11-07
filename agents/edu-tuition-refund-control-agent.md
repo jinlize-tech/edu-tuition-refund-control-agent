@@ -6,7 +6,7 @@ displayName:
   zh: '学费退费风险管控'
 profession:
   en: 'Tuition Refund Control Agent'
-  zh: ''
+  zh: '学费退费风险管控专家'
 maxTurns: 50
 ---
 
