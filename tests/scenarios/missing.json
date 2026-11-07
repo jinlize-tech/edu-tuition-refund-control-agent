@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "退款申请": "已提供并确认：退款申请"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
